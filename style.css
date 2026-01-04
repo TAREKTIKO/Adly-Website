@@ -114,7 +114,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(../img/Background.jpg);
+    background-image: url(Background.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -535,4 +535,5 @@ footer p{
 }
 
 }
+
 
