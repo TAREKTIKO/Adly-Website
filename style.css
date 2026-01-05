@@ -156,6 +156,7 @@ header{
     position: relative;
     border-top: var(--luxury-gold) 1px solid;
     border-bottom: var(--luxury-gold) 1px solid;
+    scroll-margin-top: 60px;
 }
 
 .services-title{
@@ -551,6 +552,7 @@ footer p{
 }
 
 }
+
 
 
 
