@@ -502,8 +502,9 @@ header{
 }
 
 .service-box{
-    width: 100%;
+    width: 90%;
     min-height: auto;
+    margin: 0 auto;
 }
 
 .service-box .img-box{
@@ -527,11 +528,15 @@ header{
 }
 
 .form-border{
-    padding: 40px 20px;
-    width: 95%;
+    padding: 40px 65px;
+    width: 100%;
 }
 
 .contact-us-content form{
+    width: 100%;
+}
+
+.contact-us-content form input, .contact-us-content form textarea{
     width: 100%;
 }
 
@@ -543,6 +548,7 @@ footer p{
 }
 
 }
+
 
 
 
