@@ -195,7 +195,6 @@ header{
 }
 
 .service-box .img-box{
-   background-color: red;
    width: 100%;
    height: 250px;
    transition: var(--secondary-transition);
@@ -552,6 +551,7 @@ footer p{
 }
 
 }
+
 
 
 
