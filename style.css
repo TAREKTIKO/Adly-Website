@@ -533,10 +533,13 @@ header{
 }
 
 .contact-us-content form{
-    width: 100%;
+    width: 100%;        /* ⭐ مش 400px */
+    max-width: 100%;
 }
 
-.contact-us-content form input, .contact-us-content form textarea{
+.contact-us-content form input,
+.contact-us-content form textarea,
+.contact-us-content form button{
     width: 100%;
 }
 
@@ -548,6 +551,7 @@ footer p{
 }
 
 }
+
 
 
 
