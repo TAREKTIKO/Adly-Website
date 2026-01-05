@@ -450,10 +450,16 @@ header{
     position: absolute;
     inset: 0;
     opacity: 0;
+    transition: var(--main-transition);
+}
+
+.humburger i.fa-xmark {
+    display: none;
 }
 
 .humburger i.active{
     opacity: 1;
+    display: block;
 }
 
 .navbar{
@@ -463,13 +469,15 @@ header{
     left: 0;
     width: 100%;
     padding: 5px 20px;
-    opacity: 0;
+    /* opacity: 0; */
+    display: none;
     text-align: center;
     transition: var(--main-transition);
 }
 
 .navbar.active{
     opacity: 1;
+    display: block;
 }
 
 
@@ -535,5 +543,6 @@ footer p{
 }
 
 }
+
 
 
