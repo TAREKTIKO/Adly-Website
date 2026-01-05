@@ -15,7 +15,6 @@ html{
 body{
     font-family: 'playfair display', serif;
     background-color: var(--primary-black);
-    height: 1000px;
 }
 
 .container{
@@ -551,6 +550,7 @@ footer p{
 }
 
 }
+
 
 
 
