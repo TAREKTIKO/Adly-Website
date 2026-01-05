@@ -260,6 +260,19 @@ header{
 .offer-box{
 
 }
+                            /* الكود البديل */
+/* #Our-Offer{
+    background-color: var(--text-gray);
+}
+
+
+.offer-title{
+    color: var(--text-white);
+}
+
+.offer-box{
+    border: 1px solid var(--text-white);
+} */
 
 
 /* /////////////////////////////////////////////////////////////////////// */
@@ -290,6 +303,7 @@ header{
     flex-direction: column;
     gap: 20px;
     width: 400px;
+    max-width: 100%;
 }
 
 .contact-us-content form input{
@@ -550,11 +564,4 @@ footer p{
 }
 
 }
-
-
-
-
-
-
-
 
